@@ -76,8 +76,6 @@ Protection Params, Protection Counts, Current Settings, Temperature Settings, Ba
 |---|---|
 | ![Before: available items without the module](screenshots/before.png) | ![After: all sections with the module](screenshots/after.png) |
 
-I will add screenshots here later.
-
 ### How it works
 
 The module hooks `ParamsFragment.initDataList(boolean)`, passes `true` in place of the original argument, and sets `BleUtils.rootPswCheckStatus = true` and `BleUtils.blePswStatus = 10006`. The app uses these values to show the full parameter list.
