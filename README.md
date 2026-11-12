@@ -17,6 +17,8 @@ Protection Params, Protection Counts, Current Settings, Temperature Settings, Ba
 - XiaoXiang Electric из Google Play (`com.jiabaida.little_elephant`)
 - Вход в аккаунт приложения: достаточно обычной регистрации по email. Одобрение от JBD и дилерские права не нужны.
 
+Проверено на XiaoXiang Electric **3.2.063**, Android **13 / LineageOS 20**.
+
 ### Установка
 
 1. Установите XiaoXiang Electric из Play Market и войдите в аккаунт.
@@ -24,13 +26,19 @@ Protection Params, Protection Counts, Current Settings, Temperature Settings, Ba
 3. Включите модуль в LSPosed и отметьте XiaoXiang Electric в списке приложений.
 4. Перезапустите приложение.
 
+В LSPosed найдите модуль, включите его переключателем и поставьте галочку напротив XiaoXiang Electric:
+
+![Включение модуля и выбор XiaoXiang Electric в LSPosed](screenshots/lsposed.jpg)
+
 ### Скриншоты
 
 | Было | Стало |
 |---|---|
 | ![Было: доступные пункты до модуля](screenshots/before.png) | ![Стало: все разделы после модуля](screenshots/after.png) |
 
-Скриншоты добавлю сюда позже.
+### SHA-256 APK
+
+`3aae7b96102aed74f356d31e80dd4ccbf2f1a9745524ac0823cc8b3241592ccc`
 
 ### Как это работает
 
@@ -63,6 +71,8 @@ Protection Params, Protection Counts, Current Settings, Temperature Settings, Ba
 - XiaoXiang Electric from Google Play (`com.jiabaida.little_elephant`)
 - Sign in to the app: a regular email registration is enough. You do not need JBD approval or dealer privileges.
 
+Tested with XiaoXiang Electric **3.2.063** on **Android 13 / LineageOS 20**.
+
 ### Installation
 
 1. Install XiaoXiang Electric from Google Play and sign in.
@@ -70,11 +80,19 @@ Protection Params, Protection Counts, Current Settings, Temperature Settings, Ba
 3. Enable the module in LSPosed and select XiaoXiang Electric in the app list.
 4. Restart the app.
 
+In LSPosed, find the module, turn it on, and check XiaoXiang Electric in the app list:
+
+![Enable the module and select XiaoXiang Electric in LSPosed](screenshots/lsposed.jpg)
+
 ### Screenshots
 
 | Before | After |
 |---|---|
 | ![Before: available items without the module](screenshots/before.png) | ![After: all sections with the module](screenshots/after.png) |
+
+### APK SHA-256
+
+`3aae7b96102aed74f356d31e80dd4ccbf2f1a9745524ac0823cc8b3241592ccc`
 
 ### How it works
 
